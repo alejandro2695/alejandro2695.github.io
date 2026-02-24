@@ -1,2 +1,2 @@
-# brandon.gloria.valdez.github.io
-tarea 23feb 
+Actividad 1. Laboratorio: Creación de un blog
+
