@@ -48,3 +48,36 @@ nav {
   .container { padding: 16px; }
   nav { flex-direction: column; gap: 8px; }
 }
+/* =========================
+   SELECTORES (EXAMEN + REAL)
+   ========================= */
+
+/* A) Selector de etiqueta (type selector) */
+header { margin-bottom: 12px; }
+
+/* B) Selector de clase (.clase) */
+.container { background: #fff; }
+
+/* C) Selector descendiente (A B) = “B dentro de A” */
+header p { margin-top: 6px; opacity: 0.85; }
+
+/* D) Selector de hijos directos (A > B) */
+nav > a { font-weight: 600; }
+
+/* E) Pseudo-clase :hover (interacción) */
+nav a:hover { opacity: 0.7; }
+
+/* F) Pseudo-clase :visited (link visitado) */
+a:visited { opacity: 0.9; }
+
+/* =========================
+   BOX MODEL (VISUAL)
+   ========================= */
+
+main {
+  /* content = el texto */
+  padding: 18px;              /* espacio interno (padding) */
+  border: 1px solid #ddd;     /* borde */
+  margin-top: 18px;           /* espacio externo (margin) */
+  border-radius: 12px;
+}
