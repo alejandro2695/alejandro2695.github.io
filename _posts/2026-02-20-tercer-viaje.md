@@ -3,6 +3,7 @@ layout: post
 title: "Consejos para Viajar Mejor"
 date: 2026-02-20
 ---
+![Foto del tercer viaje](/assets/img/viaje3.jpg)
 
 Después de varias experiencias, he aprendido que planear bien un viaje hace toda la diferencia.
 
