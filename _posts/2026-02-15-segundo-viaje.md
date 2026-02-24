@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explorando Nuevos Destinos"
-date: 2026-02-24
+date: 2026-02-15
 ---
 
-En este segundo viaje decidí viajar a manzanillo colima y explorar nuevos lugares para salir de la rutina diaria.
+En este segundo viaje decidí viajar a ciudad de méxico  y explorar nuevos lugares para salir de la rutina diaria.
 
 Viajar me ha permitido conocer diferentes culturas, probar nueva gastronomía y aprender de cada experiencia.
 
