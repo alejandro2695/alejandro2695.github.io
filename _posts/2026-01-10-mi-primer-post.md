@@ -3,6 +3,7 @@ layout: post
 title: "Mi Primer Viaje del Año"
 date: 2026-01-10
 ---
+![Foto del primer viaje](/assets/img/viaje1.jpg)
 
 Hoy comienzo este blog como parte de mi práctica de **Desarrollo de Aplicaciones en Red**.
 
